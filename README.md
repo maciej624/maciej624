@@ -27,7 +27,7 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 
 - **Email:** maciej.drajewski@gmail.com 
 - **GitHub:** [https://github.com/maciej624](https://github.com/maciej624)
-- **Linkedin** [linkedin.com/in/maciej-drajewski-209ab4400/](linkedin.com/in/maciej-drajewski-209ab4400/)
+- **LinkedIn:** [maciej-drajewski-209ab4400](https://www.linkedin.com/in/maciej-drajewski-209ab4400/)
 - **Location:** Poznań, Poland 🇵🇱
 
 ---
