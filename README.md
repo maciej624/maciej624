@@ -19,7 +19,6 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 ## 🎓 Education
 
 - **Poznań University of Technology (2025–Present)** - Major: Automation and Robotics 
-  - First-semester GPA: ~4.4 
 - **International Experience:** Participant in 3 Erasmus+ programs (Malta, Greece, Online) and a PL-DE international exchange project.
 
 ---
@@ -27,7 +26,8 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 ## 📫 Connect with me:
 
 - **Email:** maciej.drajewski@gmail.com 
-- **GitHub:** [https://github.com/maciej624](https://github.com/maciej624) 
+- **GitHub:** [https://github.com/maciej624](https://github.com/maciej624)
+- **Linkedin** [linkedin.com/in/maciej-drajewski-209ab4400](linkedin.com/in/maciej-drajewski-209ab4400)
 - **Location:** Poznań, Poland 🇵🇱
 
 ---
