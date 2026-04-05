@@ -11,7 +11,7 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 - **Programming:** Python (OOP), C++ (OOP), Arduino IDE, CODESYS (active learning) 
 - **Computer Vision:** OpenCV, MediaPipe, YOLOv8 
 - **Hardware:** Arduino 
-- **Design & BIM:** Fusion 360 (Certified User), Autodesk Revit, Loxone Config 
+- **Design & BIM:** Fusion 360 , Autodesk Revit, Loxone Config 
 - **Languages:** English (B2/C1), German (A1 - learning) 
 
 ---
