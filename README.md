@@ -31,4 +31,4 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 - **Location:** Poznań, Poland 🇵🇱
 
 ---
-*"Engineering the future with code and automation."*
+
