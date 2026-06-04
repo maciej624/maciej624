@@ -9,10 +9,11 @@ I am a 2nd-semester student at **Poznań University of Technology**. My academic
 ## 🛠️ Tech Stack & Skills
 
 - **Programming:** Python (OOP), C++ (OOP), Arduino IDE, CODESYS (active learning) 
-- **Computer Vision:** OpenCV, MediaPipe, YOLOv8 
-- **Hardware:** Arduino 
+- **Computer Vision:** OpenCV, MediaPipe, YOLOv8
+- **Machine Learning :** PyTorch
+- **Hardware:** Arduino , STM32 , ESP32
 - **Design & BIM:** Fusion 360 , Autodesk Revit, Loxone Config 
-- **Languages:** English (B2/C1), German (A1 - learning) 
+- **Languages:** English (C1), German (A2 - learning) 
 
 ---
 
